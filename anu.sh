@@ -1,0 +1,2 @@
+echo "Print anu"
+
